@@ -1,0 +1,8 @@
+{
+  "name": "E-Tech Software Solutions",
+  "description": "Premium software development and digital transformation services located in Eldoret, Kenya. Specializing in web, mobile, and enterprise solutions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
